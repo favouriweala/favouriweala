@@ -25,9 +25,9 @@
 [<img align="left" alt="Nkeiruka_iweala | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nkeiruka_iweala | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: http://x.com/nkeiruka_iweala?s=21
-[instagram]: https://www.instagram.com/Nkeiruka_Iweala/
-[linkedin]: https://linkedin.com/in/favour-iweala
+[twitter]: https://x.com/nkeiruka_iweala?s=21
+[instagram]:https://www.instagram.com/nkeiruka_iweala?igsh=cXIyNncwaHQ4MWg4&utm_source=qr
+[linkedin]: http://linkedin.com/in/favour-iweala-621147340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
