@@ -1,4 +1,4 @@
-<h1>Hi, I'm Favour! <br/><a href="https://github.com/favouriweala">Programmer</a>, <a href="https://www.linkedin.com/in/favour-iweala/">Software Engineer</a>,
+<h1>Hi, I'm Nkeiruka! <br/><a href="https://github.com/favouriweala">Programmer</a>, <a href="https://www.linkedin.com/in/favour-iweala/">Software Engineer</a>,
 
 <h2>👨‍💻 Wireframe Project:</h2>
 
