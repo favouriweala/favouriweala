@@ -5,10 +5,15 @@
 I’m a passionate Software Engineer with experience in HTML, CSS, and JavaScript. I enjoy tackling complex problems, learning new skills, and collaborating with diverse teams to build innovative solutions.
 
 -🌱 Currently learning: JavaScript, React, and improving my software engineering skills
+
 🔭 Working on: Responsive web applications and personal coding projects
+
 🌍 Languages: HTML, CSS, JavaScript, Python
+
 📫 How to reach me: favouriweala@gmail.com
+
 ⚡ Fun fact: I enjoy turning complex ideas into simple, user-friendly web experiences
+
 
 ## My Skills 🧠
 
